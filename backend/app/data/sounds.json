@@ -1,0 +1,182 @@
+{
+  "categories": [
+    {
+      "key": "womb",
+      "title_ar": "مستوحى من الرحم",
+      "title_en": "Womb-inspired"
+    },
+    {
+      "key": "heartbeat",
+      "title_ar": "نبض القلب",
+      "title_en": "Heartbeat-inspired"
+    },
+    {
+      "key": "white_noise",
+      "title_ar": "ضجيج ناعم",
+      "title_en": "Soft noise"
+    },
+    {
+      "key": "water",
+      "title_ar": "أصوات الماء",
+      "title_en": "Water"
+    },
+    {
+      "key": "ambient",
+      "title_ar": "محيط هادئ",
+      "title_en": "Ambient"
+    },
+    {
+      "key": "lullaby",
+      "title_ar": "تهويدات",
+      "title_en": "Lullabies"
+    }
+  ],
+  "items": [
+    {
+      "id": "womb-rumble",
+      "category": "womb",
+      "icon": "womb",
+      "title_ar": "همهمة الرحم الهادئة",
+      "title_en": "Calm womb-inspired hum",
+      "description_ar": "مزيج منخفض من نغمات عميقة وضجيج ناعم، مستوحى من أوصاف الأصوات المنخفضة التي قد يسمعها الجنين. ليس تسجيلًا من داخل الرحم.",
+      "description_en": "A low blend of deep tones and soft noise, inspired by descriptions of the muffled low sounds a fetus may hear. Not a recording from inside the uterus.",
+      "duration_seconds": 40.0,
+      "audio_url": "/media/audio/womb-rumble.mp3",
+      "license": "Original synthesized audio, generated for WAFAA AI (CC0 dedication)",
+      "source_kind": "synthesized"
+    },
+    {
+      "id": "womb-hush",
+      "category": "womb",
+      "icon": "womb",
+      "title_ar": "همس دافئ",
+      "title_en": "Warm hush",
+      "description_ar": "ضجيج ناعم متدرّج بنبض بطيء جدًا، يشبه صوت \"شششش\" الهادئ. مستوحى من الأصوات المحيطة وليس تسجيلًا حقيقيًا.",
+      "description_en": "Soft swelling noise with a very slow pulse, similar to a gentle \"shhh\" sound. Inspired by ambient sound, not a real recording.",
+      "duration_seconds": 40.0,
+      "audio_url": "/media/audio/womb-hush.mp3",
+      "license": "Original synthesized audio, generated for WAFAA AI (CC0 dedication)",
+      "source_kind": "synthesized"
+    },
+    {
+      "id": "heartbeat-gentle",
+      "category": "heartbeat",
+      "icon": "heart",
+      "title_ar": "نبض قلب هادئ",
+      "title_en": "Gentle heartbeat",
+      "description_ar": "إيقاع منتظم بسرعة 62 نبضة في الدقيقة تقريبًا مع طبقة صوتية دافئة. إيقاع مُولَّد ومستوحى من نبض القلب.",
+      "description_en": "A regular rhythm at roughly 62 beats per minute with a warm bed of sound. A generated heartbeat-inspired rhythm.",
+      "duration_seconds": 40.0,
+      "audio_url": "/media/audio/heartbeat-gentle.mp3",
+      "license": "Original synthesized audio, generated for WAFAA AI (CC0 dedication)",
+      "source_kind": "synthesized"
+    },
+    {
+      "id": "white-noise-soft",
+      "category": "white_noise",
+      "icon": "waves",
+      "title_ar": "ضجيج أبيض ناعم",
+      "title_en": "Soft white noise",
+      "description_ar": "ضجيج أبيض مُرشَّح بنبض خفيف جدًا في مستوى الصوت. أبقِ الصوت منخفضًا.",
+      "description_en": "Filtered white noise with a very gentle volume swell. Keep the volume low.",
+      "duration_seconds": 40.0,
+      "audio_url": "/media/audio/white-noise-soft.mp3",
+      "license": "Original synthesized audio, generated for WAFAA AI (CC0 dedication)",
+      "source_kind": "synthesized"
+    },
+    {
+      "id": "pink-noise-drift",
+      "category": "white_noise",
+      "icon": "waves",
+      "title_ar": "ضجيج وردي متحرك",
+      "title_en": "Pink noise drift",
+      "description_ar": "ضجيج وردي بطيف أكثر نعومة من الأبيض، يتحرك ببطء شديد.",
+      "description_en": "Pink noise with a softer spectrum than white noise, drifting very slowly.",
+      "duration_seconds": 40.0,
+      "audio_url": "/media/audio/pink-noise-drift.mp3",
+      "license": "Original synthesized audio, generated for WAFAA AI (CC0 dedication)",
+      "source_kind": "synthesized"
+    },
+    {
+      "id": "water-stream",
+      "category": "water",
+      "icon": "droplet",
+      "title_ar": "جدول ماء هادئ",
+      "title_en": "Quiet water stream",
+      "description_ar": "ماء جارٍ مُولَّد رقميًا مع فقاعات لطيفة متفرقة.",
+      "description_en": "Digitally generated flowing water with gentle, occasional bubbles.",
+      "duration_seconds": 40.0,
+      "audio_url": "/media/audio/water-stream.mp3",
+      "license": "Original synthesized audio, generated for WAFAA AI (CC0 dedication)",
+      "source_kind": "synthesized"
+    },
+    {
+      "id": "water-drops",
+      "category": "water",
+      "icon": "droplet",
+      "title_ar": "قطرات ماء",
+      "title_en": "Water drops",
+      "description_ar": "قطرات متباعدة فوق خلفية مائية ناعمة.",
+      "description_en": "Sparse droplets over a soft watery background.",
+      "duration_seconds": 40.0,
+      "audio_url": "/media/audio/water-drops.mp3",
+      "license": "Original synthesized audio, generated for WAFAA AI (CC0 dedication)",
+      "source_kind": "synthesized"
+    },
+    {
+      "id": "ambient-lavender",
+      "category": "ambient",
+      "icon": "sparkle",
+      "title_ar": "محيط اللافندر",
+      "title_en": "Lavender ambience",
+      "description_ar": "طبقات نغمية بطيئة بدون كلمات، من تأليف وتوليد WAFAA AI.",
+      "description_en": "Slow tonal layers without vocals, composed and generated for WAFAA AI.",
+      "duration_seconds": 40.0,
+      "audio_url": "/media/audio/ambient-lavender.mp3",
+      "license": "Original synthesized audio, generated for WAFAA AI (CC0 dedication)",
+      "source_kind": "synthesized"
+    },
+    {
+      "id": "ambient-moonlight",
+      "category": "ambient",
+      "icon": "moon",
+      "title_ar": "ضوء القمر",
+      "title_en": "Moonlight ambience",
+      "description_ar": "محيط هادئ بنغمات أعمق وحركة بطيئة جدًا.",
+      "description_en": "A calm ambient piece with deeper tones and very slow movement.",
+      "duration_seconds": 40.0,
+      "audio_url": "/media/audio/ambient-moonlight.mp3",
+      "license": "Original synthesized audio, generated for WAFAA AI (CC0 dedication)",
+      "source_kind": "synthesized"
+    },
+    {
+      "id": "lullaby-stars",
+      "category": "lullaby",
+      "icon": "star",
+      "title_ar": "تهويدة النجوم",
+      "title_en": "Stars lullaby",
+      "description_ar": "لحن أصلي بطيء بنغمات ناعمة، بدون كلمات.",
+      "description_en": "An original slow melody with soft tones, no words.",
+      "duration_seconds": 40.0,
+      "audio_url": "/media/audio/lullaby-stars.mp3",
+      "license": "Original synthesized audio, generated for WAFAA AI (CC0 dedication)",
+      "source_kind": "synthesized"
+    },
+    {
+      "id": "lullaby-dream",
+      "category": "lullaby",
+      "icon": "star",
+      "title_ar": "تهويدة الحلم",
+      "title_en": "Dream lullaby",
+      "description_ar": "لحن أصلي آخر بنغمات أعمق وحركة أبطأ.",
+      "description_en": "Another original melody with deeper tones and a slower pace.",
+      "duration_seconds": 40.0,
+      "audio_url": "/media/audio/lullaby-dream.mp3",
+      "license": "Original synthesized audio, generated for WAFAA AI (CC0 dedication)",
+      "source_kind": "synthesized"
+    }
+  ],
+  "license_note": "Every clip is original audio synthesized by scripts/generate_audio.py for WAFAA AI and dedicated to the public domain (CC0). No third-party recordings are used.",
+  "attribution_note": "These are original soundscapes inspired by descriptions of the prenatal auditory environment. They are not recordings made inside the uterus and do not reproduce the womb exactly.",
+  "safety_note": "Keep playback at a low volume, never place headphones or a speaker directly against your baby's ears, and never leave audio playing loudly near the baby."
+}
