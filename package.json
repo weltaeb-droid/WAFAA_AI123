@@ -1,0 +1,17 @@
+{
+  "name": "wafaa-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "WAFAA AI — Arabic-first baby care platform: cry analysis, womb-inspired sounds and evidence-informed guidance.",
+  "scripts": {
+    "install:frontend": "npm --prefix frontend install --no-audit --no-fund",
+    "build": "npm run install:frontend && npm --prefix frontend run build",
+    "start": "python3 -m uvicorn backend.app.main:app --host 0.0.0.0 --port ${PORT:-8000}",
+    "dev:api": "python3 -m uvicorn backend.app.main:app --reload --host 0.0.0.0 --port 8000",
+    "test": "python3 scripts/smoke_test.py",
+    "generate:audio": "python3 scripts/generate_audio.py"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
