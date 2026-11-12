@@ -1,0 +1,283 @@
+{
+  "urgent_warning_ar": "إذا كان طفلك يعاني من صعوبة في التنفس، أو ازرقاق الشفاه، أو حمى، أو خمول شديد، أو لا يستجيب، أو يبكي بشكل غير معتاد ومتواصل لا يمكن تهدئته، أو إذا شعرتِ/شعرت بالقلق — تواصل مع طبيب أو خدمة طوارئ فورًا. WAFAA AI أداة دعم تجريبية وليست جهازًا طبيًا ولا بديلًا عن الرعاية الصحية المتخصصة.",
+  "urgent_warning_en": "If your baby has difficulty breathing, blue lips, a fever, is unusually drowsy or unresponsive, cries inconsolably in a way that is unusual for them, or if you are worried at all — contact a doctor or emergency service right away. WAFAA AI is an experimental support tool, not a medical device, and never a substitute for professional care.",
+  "sources": [
+    {
+      "name_ar": "الأكاديمية الأمريكية لطب الأطفال (HealthyChildren.org)",
+      "name_en": "American Academy of Pediatrics (HealthyChildren.org)",
+      "url": "https://www.healthychildren.org/English/ages-stages/baby/crying-colic/Pages/default.aspx"
+    },
+    {
+      "name_ar": "هيئة الصحة الوطنية البريطانية (NHS)",
+      "name_en": "NHS (UK National Health Service)",
+      "url": "https://www.nhs.uk/conditions/baby/caring-for-a-newborn/soothing-a-crying-baby/"
+    },
+    {
+      "name_ar": "منظمة الصحة العالمية — معايير نمو الطفل",
+      "name_en": "World Health Organization — Child Growth Standards",
+      "url": "https://www.who.int/tools/child-growth-standards"
+    },
+    {
+      "name_ar": "المراكز الأمريكية لمكافحة الأمراض (CDC) — الضجيج وصحة السمع",
+      "name_en": "US Centers for Disease Control and Prevention (CDC) — Noise and hearing",
+      "url": "https://www.cdc.gov/hearing-loss-children/prevention/index.html"
+    },
+    {
+      "name_ar": "المعهد الوطني الأمريكي للصمم واضطرابات التواصل (NIDCD)",
+      "name_en": "US National Institute on Deafness and Other Communication Disorders (NIDCD)",
+      "url": "https://www.nidcd.nih.gov/health/noise-induced-hearing-loss"
+    },
+    {
+      "name_ar": "مركز أبحاث البكاء والحياة المبكرة — برنامج PURPLE Crying",
+      "name_en": "National Center on Shaken Baby Syndrome — PURPLE Crying program",
+      "url": "https://www.purplecrying.info/"
+    }
+  ],
+  "tips": [
+    {
+      "id": "tip-1",
+      "icon": "sparkle",
+      "text_ar": "البكاء في الأسابيع الأولى طريقة الطفل الوحيدة للتواصل، وليس مؤشرًا على فشل الوالدين.",
+      "text_en": "Crying is a newborn's only way to communicate in the first weeks — it is not a sign that you are failing as a parent."
+    },
+    {
+      "id": "tip-2",
+      "icon": "moon",
+      "text_ar": "ضعي الطفل دائمًا على ظهره على سطح ثابت ومستوٍ عند النوم، وبعيدًا عن الوسائد والأغطية الناعمة.",
+      "text_en": "Always place your baby on their back on a firm, flat surface to sleep, away from pillows and soft bedding."
+    },
+    {
+      "id": "tip-3",
+      "icon": "volume",
+      "text_ar": "أبقِ مستوى الصوت منخفضًا، ولا تضع السماعات أو مكبر الصوت ملاصقًا لأذن الطفل.",
+      "text_en": "Keep playback volume low, and never place headphones or a speaker directly against your baby's ears."
+    },
+    {
+      "id": "tip-4",
+      "icon": "heart",
+      "text_ar": "إذا شعرتِ بالتوتر الشديد، ضعي الطفل بأمان في سريره وخذي دقيقة للتنفس قبل العودة إليه. لا تهزّي الطفل أبدًا.",
+      "text_en": "If you feel overwhelmed, place your baby safely in the crib and take a moment to breathe before returning. Never shake a baby."
+    },
+    {
+      "id": "tip-5",
+      "icon": "chart",
+      "text_ar": "أرقام الترددات في التحليل تصف الصوت فقط، ولا تخبرك بسبب البكاء. استخدميها للملاحظة لا للتشخيص.",
+      "text_en": "The frequency numbers in the analysis describe the sound only — they do not tell you why your baby is crying. Use them for curiosity, not diagnosis."
+    }
+  ],
+  "articles": [
+    {
+      "slug": "understanding-infant-crying",
+      "icon": "ear",
+      "read_minutes": 4,
+      "title_ar": "فهم بكاء الرضيع",
+      "title_en": "Understanding infant crying",
+      "summary_ar": "لماذا يبكي الأطفال كثيرًا في الأشهر الأولى، وكيف يتغير نمط البكاء مع الوقت.",
+      "summary_en": "Why babies cry so much in the first months, and how crying patterns change over time.",
+      "sections": [
+        {
+          "heading_ar": "البكاء تواصل لا مشكلة",
+          "heading_en": "Crying is communication",
+          "body_ar": [
+            "البكاء هو الوسيلة الأساسية للرضيع للتعبير عن الجوع أو التعب أو الانزعاج أو الحاجة إلى القرب. في الأسابيع الأولى يبكي معظم الأطفال عدة ساعات موزعة على اليوم.",
+            "تشير مصادر طب الأطفال إلى أن البكاء يزداد عادةً خلال الأسابيع الأولى ويبلغ ذروته قرب الشهر الثاني، ثم يميل إلى الانخفاض تدريجيًا بعد الشهر الثالث أو الرابع. هذا النمط يختلف من طفل لآخر بشكل كبير."
+          ],
+          "body_en": [
+            "Crying is a newborn's main way of expressing hunger, tiredness, discomfort or a need for closeness. In the first weeks most babies cry for several hours spread across the day.",
+            "Paediatric sources note that crying usually increases in the first weeks, peaks around the second month, and tends to decrease gradually after the third or fourth month. The pattern varies a lot between babies."
+          ]
+        },
+        {
+          "heading_ar": "ماذا يعني \"بكاء غير معتاد\"؟",
+          "heading_en": "What counts as \"unusual crying\"?",
+          "body_ar": [
+            "الأهم من عدد الدقائق هو التغيّر عن المعتاد: بكاء بنبرة مختلفة، أو بكاء لا يهدأ بطرق كانت تنجح سابقًا، أو بكاء مصحوب بأعراض أخرى مثل الحمى أو رفض الرضاعة أو الخمول.",
+            "في هذه الحالات لا تعتمد على أي تحليل صوتي — تواصل مع طبيب الأطفال."
+          ],
+          "body_en": [
+            "More important than the number of minutes is a change from your baby's normal: a different pitch, crying that no longer responds to methods that used to work, or crying with other signs such as fever, refusing feeds or unusual drowsiness.",
+            "In those situations do not rely on any audio analysis — contact your paediatric professional."
+          ]
+        }
+      ],
+      "sources": [
+        {"name_ar": "NHS — تهدئة الطفل الباكي", "name_en": "NHS — Soothing a crying baby", "url": "https://www.nhs.uk/conditions/baby/caring-for-a-newborn/soothing-a-crying-baby/"},
+        {"name_ar": "HealthyChildren.org — البكاء والمغص", "name_en": "HealthyChildren.org — Crying and colic", "url": "https://www.healthychildren.org/English/ages-stages/baby/crying-colic/Pages/default.aspx"}
+      ]
+    },
+    {
+      "slug": "common-reasons-babies-cry",
+      "icon": "list",
+      "read_minutes": 4,
+      "title_ar": "أسباب شائعة للبكاء",
+      "title_en": "Common reasons babies cry",
+      "summary_ar": "الجوع، التعب، الحفاض، الحرارة، الحاجة إلى التجشؤ، وفرط التحفيز — قائمة عملية للمراجعة.",
+      "summary_en": "Hunger, tiredness, a wet nappy, temperature, needing to burp, and overstimulation — a practical checklist.",
+      "sections": [
+        {
+          "heading_ar": "قائمة تحقق بسيطة",
+          "heading_en": "A simple checklist",
+          "body_ar": [
+            "الجوع: علامات مبكرة مثل مص الشفاه أو تحريك الرأس بحثًا عن الثدي أو الزجاجة تسبق البكاء عادةً.",
+            "الحفاض والملابس: حفاض مبلل أو متسخ، ملابس ضيقة، أو وسم أو خيط يزعج الجلد.",
+            "الحرارة: لمس الرقبة أو الصدر يساعد في تقدير حرارة الطفل بدلًا من اليدين والقدمين.",
+            "الحاجة إلى التجشؤ: خاصة بعد الرضاعة، وقد يهدأ الطفل بعد خروج الهواء.",
+            "فرط التحفيز: ضوء قوي، ضجيج، أو كثرة اللعب. الهدوء والاحتضان البطيء يساعدان غالبًا.",
+            "التعب: كثير من الأطفال يبكون أكثر عندما يكونون متعبين جدًا، والنوم قد يكون أصعب من البكاء نفسه."
+          ],
+          "body_en": [
+            "Hunger: early cues such as lip-smacking or turning the head to search usually come before crying.",
+            "Nappy and clothing: a wet or dirty nappy, tight clothes, or a tag or thread irritating the skin.",
+            "Temperature: feeling the neck or chest is a better estimate than the hands and feet.",
+            "Needing to burp: especially after a feed; babies often settle once the air comes up.",
+            "Overstimulation: bright light, noise or lots of play. Quiet and slow cuddling often help.",
+            "Tiredness: many babies cry more when overtired, and falling asleep can be harder than the crying itself."
+          ]
+        },
+        {
+          "heading_ar": "ماذا عن المغص؟",
+          "heading_en": "What about colic?",
+          "body_ar": [
+            "المغص وصف لنمط من البكاء الشديد المتكرر عند الرضع الأصحاء، وسببه غير مفهوم بالكامل بعد. ليس مرضًا ينتج عن خطأ من الوالدين، ويخف عادةً مع تقدّم العمر.",
+            "لا يمكن لتحليل الصوت أن يشخّص المغص أو يميّزه طبيًا. تحدثي مع طبيب الأطفال إذا كان البكاء شديدًا أو مصحوبًا بأعراض أخرى."
+          ],
+          "body_en": [
+            "Colic describes a pattern of frequent, intense crying in otherwise healthy infants; its cause is still not fully understood. It is not caused by a parenting mistake and usually improves with age.",
+            "Audio analysis cannot diagnose colic or distinguish it medically. Speak to your paediatric professional if crying is intense or comes with other symptoms."
+          ]
+        }
+      ],
+      "sources": [
+        {"name_ar": "NHS — المغص", "name_en": "NHS — Colic", "url": "https://www.nhs.uk/conditions/colic/"},
+        {"name_ar": "HealthyChildren.org — نصائح لتخفيف المغص", "name_en": "HealthyChildren.org — Colic relief tips", "url": "https://www.healthychildren.org/English/ages-stages/baby/crying-colic/Pages/Colic.aspx"}
+      ]
+    },
+    {
+      "slug": "infant-sleep-and-soothing",
+      "icon": "moon",
+      "read_minutes": 4,
+      "title_ar": "نوم الرضيع وتهدئته",
+      "title_en": "Infant sleep and soothing",
+      "summary_ar": "روتين هادئ، بيئة نوم آمنة، وطرق تهدئة لطيفة يمكن تجربتها بهدوء.",
+      "summary_en": "A calm routine, a safe sleep environment, and gentle soothing methods to try.",
+      "sections": [
+        {
+          "heading_ar": "بيئة نوم آمنة",
+          "heading_en": "A safe sleep environment",
+          "body_ar": [
+            "ينصح خبراء صحة الأطفال بوضع الطفل على ظهره على سطح ثابت ومستوٍ، مع ملاءة مشدودة، ودون وسائد أو أغطية ناعمة أو ألعاب داخل سرير النوم.",
+            "تجنّبي مشاركة السرير مع الطفل عند النوم العميق، ويمكن وضع السرير في غرفة الوالدين خلال الأشهر الأولى وفق التوصيات المتاحة في بلدك."
+          ],
+          "body_en": [
+            "Paediatric guidance recommends placing babies on their back on a firm, flat surface with a tight-fitting sheet, and no pillows, soft bedding or toys in the sleep space.",
+            "Avoid bed-sharing during deep sleep, and consider keeping the cot in the parents' room in the first months according to the guidance available in your country."
+          ]
+        },
+        {
+          "heading_ar": "طرق تهدئة لطيفة",
+          "heading_en": "Gentle soothing methods",
+          "body_ar": [
+            "التقميط الخفيف، والاحتضان القريب، والحمل الهادئ، وأصوات خفيفة منخفضة المستوى، كلها طرق شائعة يمكن تجربتها.",
+            "الروتين المتكرر (حمام دافئ، إضاءة خفيفة، صوت هادئ) يساعد بعض الأطفال على توقع وقت النوم.",
+            "لا تهزّي الطفل أبدًا بقوة، ولا تستخدمي طرق تهدئة تعتمد على الصوت العالي أو الاهتزاز العنيف."
+          ],
+          "body_en": [
+            "Light swaddling, close cuddling, calm carrying and low-level sound are all commonly used soothing approaches.",
+            "A repeated routine (warm bath, dim light, quiet sound) helps some babies anticipate sleep.",
+            "Never shake a baby forcefully, and avoid soothing methods that rely on loud sound or vigorous vibration."
+          ]
+        }
+      ],
+      "sources": [
+        {"name_ar": "HealthyChildren.org — نوم الرضيع", "name_en": "HealthyChildren.org — Baby sleep", "url": "https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/default.aspx"},
+        {"name_ar": "NHS — مساعدة الطفل على النوم", "name_en": "NHS — Helping your baby to sleep", "url": "https://www.nhs.uk/conditions/baby/caring-for-a-newborn/helping-your-baby-to-sleep/"}
+      ]
+    },
+    {
+      "slug": "safe-sound-exposure",
+      "icon": "volume",
+      "read_minutes": 3,
+      "title_ar": "التعرّض الآمن للأصوات",
+      "title_en": "Safe sound exposure",
+      "summary_ar": "كيف تستخدمين الأصوات المهدئة بأمان، ولماذا المستوى المنخفض والمسافة مهمان.",
+      "summary_en": "How to use soothing sounds safely, and why low volume and distance matter.",
+      "sections": [
+        {
+          "heading_ar": "المبدأ الأساسي: منخفض وبعيد",
+          "heading_en": "The basic rule: low and away",
+          "body_ar": [
+            "حاسة السمع عند الرضع حساسة. توصي جهات الصحة العامة بتجنّب الأصوات العالية القريبة من الأذن، لأن الضرر السمعي يعتمد على شدة الصوت ومدة التعرّض معًا.",
+            "استخدمي مستوى صوت منخفضًا بحيث يمكنك سماع الصوت بهدوء، وضعي مصدر الصوت على مسافة من سرير الطفل، ولا تضعي السماعات أو مكبر الصوت ملاصقًا لأذن الطفل أبدًا."
+          ],
+          "body_en": [
+            "A baby's hearing is sensitive. Public-health guidance advises avoiding loud sounds close to the ear, because hearing damage depends on both loudness and duration of exposure.",
+            "Use a low volume that you can hear comfortably, keep the sound source at a distance from the cot, and never place headphones or a speaker against your baby's ear."
+          ]
+        },
+        {
+          "heading_ar": "عن مكتبة الأصوات في WAFAA AI",
+          "heading_en": "About the WAFAA AI sound library",
+          "body_ar": [
+            "كل المقاطع في المكتبة أُنتجت خصيصًا لهذا التطبيق عبر توليد صوتي رقمي، وهي مستوحاة من أوصاف البيئة السمعية قبل الولادة (أصوات منخفضة، نبض منتظم، ضجيج ناعم) وليست تسجيلات فعلية من داخل الرحم.",
+            "لا يمكن الادعاء بأن هذه الأصوات تُعيد إنتاج الرحم بدقة أو أنها ستُهدئ كل طفل. بعض الأطفال يهدؤون مع الصوت، وبعضهم يفضّل الصمت."
+          ],
+          "body_en": [
+            "Every clip in the library was produced specifically for this app through digital sound synthesis. They are inspired by descriptions of the prenatal sound environment (low sounds, a regular pulse, soft noise) and are not actual recordings from inside the uterus.",
+            "No claim is made that these sounds reproduce the womb accurately or will settle every baby. Some babies calm with sound; others prefer quiet."
+          ]
+        }
+      ],
+      "sources": [
+        {"name_ar": "CDC — الوقاية من فقدان السمع عند الأطفال", "name_en": "CDC — Preventing hearing loss in children", "url": "https://www.cdc.gov/hearing-loss-children/prevention/index.html"},
+        {"name_ar": "NIDCD — فقدان السمع الناتج عن الضجيج", "name_en": "NIDCD — Noise-induced hearing loss", "url": "https://www.nidcd.nih.gov/health/noise-induced-hearing-loss"}
+      ]
+    },
+    {
+      "slug": "when-to-seek-help",
+      "icon": "alert",
+      "read_minutes": 3,
+      "title_ar": "متى تطلبين المساعدة الطبية",
+      "title_en": "When to seek medical help",
+      "summary_ar": "علامات تستدعي الاتصال بالطبيب فورًا، وحدود ما يمكن أن تقدمه أداة تحليل البكاء.",
+      "summary_en": "Signs that need prompt medical contact, and the limits of any cry-analysis tool.",
+      "sections": [
+        {
+          "heading_ar": "علامات تحتاج تقييمًا عاجلًا",
+          "heading_en": "Signs that need urgent assessment",
+          "body_ar": [
+            "صعوبة في التنفس، أو ازرقاق الشفاه أو الوجه، أو شخير/أصوات تنفس غير طبيعية.",
+            "حمى عند رضيع صغير جدًا، أو خمول شديد، أو صعوبة في الإيقاظ، أو رفض كامل للرضاعة.",
+            "بكاء عالي النبرة ومتواصل لا يهدأ بأي طريقة، أو تغيّر مفاجئ في نمط البكاء المعتاد.",
+            "قيء متكرر، أو جفاف (قلة الحفاضات المبللة)، أو طفح جلدي منتشر.",
+            "أي شعور بالقلق من الوالدين: القلق وحده سبب كافٍ لطلب المشورة."
+          ],
+          "body_en": [
+            "Difficulty breathing, blue lips or face, or unusual breathing sounds.",
+            "Fever in a very young infant, unusual drowsiness, difficulty waking, or refusing all feeds.",
+            "A high-pitched, continuous cry that cannot be soothed, or a sudden change from your baby's normal crying pattern.",
+            "Repeated vomiting, signs of dehydration (fewer wet nappies), or a spreading rash.",
+            "Any parental concern at all: worry on its own is a good reason to ask for advice."
+          ]
+        },
+        {
+          "heading_ar": "ما لا يمكن لأداة تحليل البكاء فعله",
+          "heading_en": "What a cry-analysis tool cannot do",
+          "body_ar": [
+            "لا يستطيع WAFAA AI تشخيص مرض، ولا تحديد سبب البكاء بيقين، ولا استبعاد مشكلة صحية.",
+            "نتيجة النموذج تقدير إحصائي من صوت مسجّل في ظروف غير معملية، وقد تتأثر بالخلفية الضوضائية وجودة الميكروفون.",
+            "اعتبري النتيجة ملاحظة إضافية فقط، واتخذي قرارات الرعاية بالتعاون مع مختص صحي مؤهل."
+          ],
+          "body_en": [
+            "WAFAA AI cannot diagnose an illness, determine the cause of crying with certainty, or rule out a health problem.",
+            "A model output is a statistical estimate from audio recorded outside laboratory conditions, and it can be affected by background noise and microphone quality.",
+            "Treat the result as one extra observation, and make care decisions together with a qualified healthcare professional."
+          ]
+        }
+      ],
+      "sources": [
+        {"name_ar": "NHS — متى ترى الطبيب", "name_en": "NHS — When to see a doctor", "url": "https://www.nhs.uk/conditions/baby/health/"},
+        {"name_ar": "HealthyChildren.org — متى تتصلين بالطبيب", "name_en": "HealthyChildren.org — When to call the doctor", "url": "https://www.healthychildren.org/English/ages-stages/baby/Pages/default.aspx"}
+      ]
+    }
+  ]
+}
