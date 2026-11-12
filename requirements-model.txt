@@ -1,0 +1,10 @@
+# Optional: install these only when you upload the trained WAFAA AI model.
+#
+# scikit-learn is required to unpickle a model that was trained with it.
+# It ships manylinux wheels (glibc) but no musllinux wheels, so on the Alpine
+# deployment image it must be compiled from source. The Dockerfile exposes the
+# build argument INSTALL_MODEL_DEPS=1 for exactly that case.
+#
+#   pip install -r requirements-model.txt
+#
+scikit-learn>=1.3,<2.0
